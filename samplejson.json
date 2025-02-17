@@ -1,0 +1,15 @@
+[
+   {
+"Patient DID":"did:ethr:0xb3b521323434",
+"Gene Name":"CDKKK", 
+ "Mutation Type":"SOP",
+  "SHA-256 Hash":"007e31205056803d784605c7d76e2d412ce679e61bebf8860592f9ad7183d7d0" 
+    },
+{
+"Patient DID":"did:ethr:0xb3b521323434",
+"Gene Name":"CDKKK", 
+ "Mutation Type":"SOP",
+  "SHA-256 Hash":"007e31205056803d784605c7d76e2d412ce679e61bebf8860592f9ad7183d7d0" 
+    }
+
+]
