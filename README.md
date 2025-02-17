@@ -1,0 +1,1 @@
+This project is designed to share the genomic data to researchers for personlaized medicine applications. An hybird approach is used to seucre the genomic data with privacy and access control using advanced encryption and self-soveriegn identities. The smart contract is written in solidity and deployed on polygon PoS testnet using metamask and IPFS.
